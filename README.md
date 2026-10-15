@@ -55,11 +55,12 @@ The project was developed in three phases:
 ## Pet Attributes
 Each pet maintains several attributes:
 
-No.  Attribute  Description
-1.  Health  Overall wellbeing of the pet
-2.  Hunger  Indicates when feeding is required
-3.  Happiness  Represents pet satisfaction
-4.  Energy  Determines activity capability
+| No.  | Attribute  | Description |
+|------|------------|-------------|
+| 1.  | Health  | Overall wellbeing of the pet | 
+| 2.  | Hunger  | Indicates when feeding is required |
+| 3.  | Happiness  | Represents pet satisfaction |
+| 4.  | Energy  | Determines activity capability |
 
 These attributes change based on user actions.
 
